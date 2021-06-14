@@ -10,8 +10,8 @@
     <h1>Exercices PHP - Partie 1</h1>
 
     <h2 class="">Exercice 3</h2>
-    <p style="color:#8080FF">Créez une variable age. Afficher vous êtes majeur 
-    ou vous êtes mineur en fonction de l'âge.</p>
+    <p style="color:#8080FF">Créez une variable age. 
+    Afficher vous êtes majeur ou vous êtes mineur en fonction de l'âge.</p>
     <?php
         $age = 7;
         if($age>0 && $age <120) {

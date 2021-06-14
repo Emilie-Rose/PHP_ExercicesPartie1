@@ -11,8 +11,7 @@
 
     <h2 class="">Exercice 4</h2>
     <p style="color:#8080FF">Créez une variable age aléatoire. 
-    Afficher vous êtes majeur ou vous êtes mineur 
-    en fonction de l'âge obtenu.</p>
+    Afficher vous êtes majeur ou vous êtes mineur en fonction de l'âge obtenu.</p>
     <?php
         $age = rand (0, 120);
         if ($age >= 18) {
