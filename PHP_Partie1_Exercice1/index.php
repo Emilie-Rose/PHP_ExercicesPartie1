@@ -13,7 +13,7 @@
     Afficher cette variable.</p>
     <?php
     // symbole d'affectation =
-        $ice = 'Fraise' ;
+        $ice = 'Frambroise' ;
         // echo $ice;
         echo "<p>Je veux glace à la $ice!</p>"
     ?>
